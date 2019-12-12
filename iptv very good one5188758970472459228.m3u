@@ -1,0 +1,119 @@
+#EXTM3U
+#EXTINF:0,mbc1
+http://livecdnh2.tvanywhere.ae/hls/mbc1/02.m3u8
+#EXTINF:0,mbc2
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:0,mbc3
+http://livecdnh2.tvanywhere.ae/hls/mbc3/04.m3u8
+#EXTINF:0,mbc5
+http://livecdnh2.tvanywhere.ae/hls/mbc4/05.m3u8
+#EXTINF:0,mbc msr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/04.m3u8
+#EXTINF:0,mbc max
+http://livecdnh3.tvanywhere.ae/hls/mbcmax/03.m3u8
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://78.193.122.129:9981/play/a055
+#EXTINF:-1,AL MAAREF
+http://78.193.122.129:9981/play/a031
+#EXTINF:-1,AL RAHMA
+http://78.193.122.129:9981/play/a05e
+#EXTINF:-1,Al Ahd
+http://78.193.122.129:9981/play/a04q
+#EXTINF:-1,M CLASSIC
+http://78.193.122.129:9981/play/a02i
+#EXTINF:-1,Rotana Cinema EGY
+http://78.193.122.129:9981/play/a04f
+#EXTINF:-1,CINEMA 1
+http://78.193.122.129:9981/play/a02m
+#EXTINF:-1,AHWAZNA TV
+http://78.193.122.129:9981/play/a04u
+#EXTINF:-1,Yemen Today
+http://78.193.122.129:9981/play/a04p
+#EXTINF:-1,ZAYTOONA
+http://78.193.122.129:9981/play/a02t
+#EXTINF:-1,ALMAGHARABIA TV
+http://78.193.122.129:9981/play/a036
+#EXTINF:-1,Rotana Khalijiah
+http://78.193.122.129:9981/play/a04c
+#EXTINF:-1,Panorama Drama 2
+http://78.193.122.129:9981/play/a04o
+#EXTINF:-1,Rotana Classic
+http://78.193.122.129:9981/play/a04d
+#EXTINF:-1,ALMAGHARIBIA 2 TV
+http://78.193.122.129:9981/play/a059
+#EXTINF:-1,STAR CINEMA 2
+http://78.193.122.129:9981/play/a053
+#EXTINF:-1,Tunisia Nat 2
+http://78.193.122.129:9981/play/a02f
+#EXTINF:-1,TOYOR AL JANAH
+http://78.193.122.129:9981/play/a030
+#EXTINF:-1,AL ALAM
+http://78.193.122.129:9981/play/a04w
+#EXTINF:-1,BERBERE TV
+http://78.193.122.129:9981/play/a05o
+#EXTINF:-1,STAR CINEMA 1
+http://78.193.122.129:9981/play/a050
+#EXTINF:-1,Rotana Cinema KSA
+http://78.193.122.129:9981/play/a04g
+#EXTINF:-1,M CINEMA
+http://78.193.122.129:9981/play/a04t
+#EXTINF:-1,TAHA 
+http://78.193.122.129:9981/play/a02s
+#EXTINF:-1,SAUDI ANTI-TERRORISM
+http://78.193.122.129:9981/play/a02x
+#EXTINF:-1,LBC SAT
+http://78.193.122.129:9981/play/a02b
+#EXTINF:-1,SAMARRA TV
+http://78.193.122.129:9981/play/a02o
+#EXTINF:-1,RT Arab
+http://78.193.122.129:9981/play/a02l
+#EXTINF:-1,Al Mawsleya
+http://78.193.122.129:9981/play/a04k
+#EXTINF:-1,CINEMA PRO
+http://78.193.122.129:9981/play/a02j
+#EXTINF:-1,FAMILY DRAMA
+http://78.193.122.129:9981/play/a05g
+#EXTINF:-1,Cairo cinema
+http://78.193.122.129:9981/play/a02d
+#EXTINF:-1,ELMOLED
+http://78.193.122.129:9981/play/a05p
+#EXTINF:-1,SamiraTV
+http://78.193.122.129:9981/play/a05t
+#EXTINF:-1,AFAQ TV
+http://78.193.122.129:9981/play/a02h
+#EXTINF:-1,Panorama Drama
+http://78.193.122.129:9981/play/a04l
+#EXTINF:-1,Rotana Drama
+http://78.193.122.129:9981/play/a04e
+#EXTINF:-1,ADEN TV
+http://78.193.122.129:9981/play/a035
+#EXTINF:-1,MESat HD
+http://78.193.122.129:9981/play/a058
+#EXTINF:-1,Panorama Food
+http://78.193.122.129:9981/play/a04m
+#EXTINF:-1,TOKTOK AFLAM
+http://78.193.122.129:9981/play/a02k
+#EXTINF:-1,Rotana
+http://78.193.122.129:9981/play/a04a
+#EXTINF:-1,MICKEY TV
+http://78.193.122.129:9981/play/a05a
+#EXTINF:-1,Rotana Clip
+http://78.193.122.129:9981/play/a04b
+#EXTINF:-1,LDC
+http://78.193.122.129:9981/play/a05s
+#EXTINF:-1,SAUDI 24
+http://78.193.122.129:9981/play/a04x
+#EXTINF:-1,OTV
+http://78.193.122.129:9981/play/a05u
+#EXTINF:-1,ENNAHAR TV
+http://78.193.122.129:9981/play/a05r
+#EXTINF:-1,RUDAW TV
+http://78.193.122.129:9981/play/a02q
+#EXTINF:-1,Al Ahly TV
+http://78.193.122.129:9981/play/a04n
+#EXTINF:-1,Iraqi EDU
+http://78.193.122.129:9981/play/a02e
+#EXTINF:-1,ALYOM ZAMAN
+http://78.193.122.129:9981/play/a05h
+#EXTINF:-1,Cairo Drama
+http://78.193.122.129:9981/play/a02c
